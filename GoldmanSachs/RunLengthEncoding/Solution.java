@@ -1,6 +1,7 @@
 package GoldmanSachs.RunLengthEncoding;
 // https://www.geeksforgeeks.org/problems/run-length-encoding/1
-import java.util.*;;
+
+// import java.util.*;
 public class Solution {
 	String encode(String str)
 	{
