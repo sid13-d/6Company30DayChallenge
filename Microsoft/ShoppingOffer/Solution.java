@@ -1,5 +1,6 @@
 package Microsoft.ShoppingOffer;
 
+import java.util.*;
 class Solution {
     public int shoppingOffers(List<Integer> price, List<List<Integer>> special, List<Integer> needs) {
         return helper(price, special, needs, 0);
